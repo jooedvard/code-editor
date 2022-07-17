@@ -1,0 +1,13 @@
+body div {
+  width: 10px;
+  height: 10px;
+  max-width: 10px;
+  max-height: 10px;
+}
+body{
+    display: flex;
+    flex-direction: row;
+    max-height: 100vw;
+    
+    
+}
